@@ -1,5 +1,5 @@
-# Irving
+# Hi there 👋
 
-Backend software: APIs, services, and the wiring between them.
+Software engineer.
 
-Most repos here are small tools and integrations. The kind of work that only shows up when something else breaks.
+APIs, services, and the parts in between.
